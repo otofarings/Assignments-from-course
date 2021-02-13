@@ -1,7 +1,7 @@
 # Assignments_from_courses
-Here are the assignments from various courses.
+Here are the assignments from IBM Data Science course.
 ## [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
-1. [Analyzing US Economic Data and Building a Dashboard](https://github.com/otofarings/Assignments_from_courses/blob/main/Analyzing%20US%20Economic%20Data.ipynb):
+1. [Analyzing US Economic Data and Building a Dashboard](https://github.com/otofarings/Assignments_from_courses/blob/main/Analyzing%20US%20Economic%20Data.ipynb)
   - From course [Python for Data Science and AI](https://www.coursera.org/learn/python-for-applied-data-science-ai/home/info)
   - In this assignment, I extracted some essential economic indicators from some data, then displayed these economic indicators in a Dashboard. I marked on my ability to apply Python programming concepts that would commonly be used to load,  analyze and share data.
   
