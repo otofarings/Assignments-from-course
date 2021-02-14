@@ -1,4 +1,4 @@
-# Assignments_from_courses
+# Assignments_from_course
 Here are the assignments from IBM Data Science course.
 ## [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 1. [Analyzing US Economic Data and Building a Dashboard](https://github.com/otofarings/Assignments_from_courses/blob/main/Analyzing%20US%20Economic%20Data.ipynb)
