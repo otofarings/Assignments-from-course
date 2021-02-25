@@ -21,6 +21,6 @@ Here are the assignments from IBM Data Science course.
   - From course [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python/home/info)
   - In this assignment, I built a classifier to predict whether a loan case will be paid off or not. I loaded a historical dataset from previous loan applications, cleaned the data, and applied different classification algorithm on the data. 
 
-6. []()
+6. [Analyzing Historical Stock/Revenue Data](https://github.com/otofarings/Assignments-from-course/blob/preload/Analyzing%20Historical%20StockRevenue%20Data.ipynb)
   - From course [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science/home/info)
   - In this assignment, I extracted the revenue data for Tesla and GameStop and built a dashboard to compare the price of the stock vs the revenue. 
