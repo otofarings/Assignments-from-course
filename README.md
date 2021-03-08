@@ -5,6 +5,7 @@ Here are the tasks from "Data Analytics" from Yandex.Praktikum.
   - From course [Основы Python и анализа данных]
   - In this assignment, I made a simple quantitative analysis of the data and found how the popularity of music of different genres depends on the time of day and day of the week.
 
+
 Here are the assignments from IBM Data Science course.
 ## [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 1. [Analyzing US Economic Data and Building a Dashboard](https://github.com/otofarings/Assignments_from_courses/blob/main/Analyzing%20US%20Economic%20Data.ipynb)
