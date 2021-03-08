@@ -1,4 +1,10 @@
 # Assignments_from_course
+Here are the tasks from "Data Analytics" from Yandex.Praktikum.
+## [Аналитик данных](https://praktikum.yandex.ru/profile/data-analyst-2035/)
+1. [Music of Big Cities](https://github.com/otofarings/Assignments-from-course/blob/main/Music%20of%20Big%20Cities.ipynb)
+  - From course [Основы Python и анализа данных]
+  - In this assignment, I made a simple quantitative analysis of the data and found how the popularity of music of different genres depends on the time of day and day of the week.
+
 Here are the assignments from IBM Data Science course.
 ## [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 1. [Analyzing US Economic Data and Building a Dashboard](https://github.com/otofarings/Assignments_from_courses/blob/main/Analyzing%20US%20Economic%20Data.ipynb)
