@@ -2,7 +2,7 @@
 ## [Аналитик данных](https://praktikum.yandex.ru/profile/data-analyst-2035/)
 Here are the assignments from "Data Analytics" from Yandex.Praktikum.
 1. [Music of Big Cities](https://github.com/otofarings/Assignments-from-course/blob/main/Music%20of%20Big%20Cities.ipynb)
-  - From course [Основы Python и анализа данных]
+  - From course **Основы Python и анализа данных**
   - In this assignment, I made a simple quantitative analysis of the data and found how the popularity of music of different genres depends on the time of day and day of the week.
 
 
