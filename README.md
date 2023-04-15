@@ -2,7 +2,6 @@
 
 =======
 
-# Assignments_from_course
 ## [Аналитик данных](https://praktikum.yandex.ru/profile/data-analyst-2035/)
 Here are the assignments from "Data Analytics" from Yandex.Praktikum.
 1. [Music of Big Cities](https://github.com/otofarings/Assignments-from-course/blob/main/Music%20of%20Big%20Cities.ipynb)
