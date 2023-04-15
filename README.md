@@ -1,3 +1,7 @@
+# Assignments from Courses
+
+=======
+
 # Assignments_from_course
 ## [Аналитик данных](https://praktikum.yandex.ru/profile/data-analyst-2035/)
 Here are the assignments from "Data Analytics" from Yandex.Praktikum.
